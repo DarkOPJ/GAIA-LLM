@@ -97,12 +97,10 @@ GAIA represents the future of GCB Digital:
 
 ---
 
-## Future Roadmap
+## Disclaimer
 
-Planned improvements include:
+GAIA is a conceptual prototype created solely for demonstration purposes.
 
-- Multilingual support for broader accessibility  
-- Voice-based assistant integration  
-- Fraud detection and risk intelligence  
-- Personalized financial recommendations  
-- Full transaction automation with compliance controls  
+It is not a production banking system, does not process real customer data, and is not affiliated with or deployed by any financial institution.
+
+The purpose of this work is to explore how AI may contribute to the future modernization of digital banking in Ghana.
