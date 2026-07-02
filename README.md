@@ -1,7 +1,7 @@
 # GAIA — GCB AI Assistant for Smarter Digital Banking
 [![GAIA Demo](assets/Image.png)](assets/gaia.mp4)
 
-GAIA is an AI-powered digital banking assistant designed to modernize and automate customer support across GCB’s digital platforms.
+GAIA is an AI-powered digital banking assistant designed to modernize and automate customer support across GCB’s digital platforms. View and download demo in assets folder.
 
 ### GAIA is a finetuned foundational LLM (not RAG architecture) and with function calling capabilities.
 
