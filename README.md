@@ -3,6 +3,8 @@
 
 GAIA is an AI-powered digital banking assistant designed to modernize and automate customer support across GCB’s digital platforms.
 
+### GAIA is a finetuned foundational LLM (not RAG architecture) and with function calling capabilities.
+
 It enables customers to interact with banking services through simple natural language text messaging — making digital banking as easy as texting a friend.
 
 ---
